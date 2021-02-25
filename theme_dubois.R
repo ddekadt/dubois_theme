@@ -34,7 +34,7 @@ theme_dubois <- function(base_size = 11,
 
 # Set wd
 if(Sys.info()['user']=='ddeka'){
-  setwd("C:\\Users\\ddeka\\Dropbox\\dubois\\")
+  setwd("C:\\Users\\ddeka\\Dropbox\\dubois\\dubois_theme")
 } else {}
 
 
