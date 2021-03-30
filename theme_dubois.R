@@ -2,7 +2,7 @@
 ##################### THEME DUBOIS ########################
 ## by Anthony Starks, Charlie Eaton, Daniel de Kadt, et al.
 
-# Define theme (this needs work)
+# Define theme 
 theme_dubois <- function(base_size = 11,
                          base_family = "Roboto Condensed",
                          base_line_size = base_size / 170,
